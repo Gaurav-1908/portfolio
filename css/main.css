@@ -1,0 +1,73 @@
+.fa {border-width: 1px;
+    color: #39FF14;
+  }
+
+.navbar{
+    border-bottom: 1px solid;
+    border-color: grey;
+    background-color:black ;
+    padding:1%;
+    font-size: 120%
+}
+
+.home{
+    padding:4%;
+    padding-left:1.5%;
+    padding-bottom:8% ;
+}
+
+.col-xl-8 a{
+    font-size:24px; background-color:#141414;color:white;margin-right:2%
+}
+
+.about{
+    padding-top: 16%;
+    padding-bottom: 8%;
+}
+
+.projects{
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.contact{
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.card{
+    margin-bottom:2% ;
+    padding-top:2%;
+    padding-bottom:2%;
+}
+
+.col-xl-6{
+    background-color: white;
+    padding:2%;
+    margin-bottom:2%;
+}
+
+.col-xl-6 hr{
+    width:25%;
+    color:black;
+}
+
+img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    float: center;
+}
+
+.col-xl-8 p{
+    color: white
+}
+
+footer{
+    text-align: center;
+}
+
+span{
+    color:#39FF14
+}
+
