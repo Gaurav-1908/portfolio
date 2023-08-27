@@ -1,0 +1,16 @@
+[
+    {
+        "framework": "Django",
+        "level": 4
+    },
+
+    {
+        "framework": "Node js",
+        "level": 3
+    },
+
+    {
+        "framework": "React Js",
+        "level": 3
+    }
+]

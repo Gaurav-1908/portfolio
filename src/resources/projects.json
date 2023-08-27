@@ -1,0 +1,39 @@
+[
+    {
+        "Titile": "Voting System Using Block chain Technology",
+        "Info" : "Enterprise Resource Planning system made with django",
+        "link" : "https://github.com/orgs/Chain-Smokers/dashboard",
+        "techStack": "Solidity Programming, Ethereum Network",
+        "Start": "November 2022",
+        "End": "May 2023"
+    },
+
+    {
+        "Titile": "Portfolio",
+        "Info" : "A Portfolio website to describe myself",
+        "link" : "/",
+        "techStack": "React, Bootstrap",
+        "Start": "May 2022",
+        "End": "july 2022"
+    },
+
+    {
+        "Titile": "Blogger",
+        "Info" : "A simple blogging Website made with Php + Mysql hosted",
+        "link" : "http://ec2-43-205-198-253.ap-south-1.compute.amazonaws.com/blogger/",
+        "techStack": "PHP, MySql, Bootstrap",
+        "Start": "May 2022",
+        "End": "June 2022"
+    },
+
+    {
+        "Titile": "Ledger",
+        "Info" : "Enterprise Resource Planning system made with django",
+        "link" : "http://ledger.pythonanywhere.com/",
+        "techStack": "Python Django, Bootstrap",
+        "Start": "November 2021",
+        "End": "December 2021"
+    }
+
+    
+]
