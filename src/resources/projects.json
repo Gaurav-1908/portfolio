@@ -1,7 +1,25 @@
 [
     {
+        "Titile": "Chat Application",
+        "Info" : "CHatting Application BUild with React js and Web Sockets",
+        "link" : "http://my-react-apps.duckdns.org/",
+        "techStack": "React js, Socket.io",
+        "Start": "August 2023",
+        "End": "Auguts 2023"
+    },
+
+    {
+        "Titile": "Tic-Tac-Toe",
+        "Info" : "BAsic Board game build with React js and web Sockets",
+        "link" : "https://github.com/Gaurav-1908/tic-tac-toe",
+        "techStack": "React js, Socket.io",
+        "Start": "July 2023",
+        "End": "July 2023"
+    },
+
+    {
         "Titile": "Voting System Using Block chain Technology",
-        "Info" : "Enterprise Resource Planning system made with django",
+        "Info" : "Voting System made with Block Chain Technology",
         "link" : "https://github.com/orgs/Chain-Smokers/dashboard",
         "techStack": "Solidity Programming, Ethereum Network",
         "Start": "November 2022",
